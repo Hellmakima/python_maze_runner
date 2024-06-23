@@ -22,9 +22,9 @@ To run this project, ensure you have:
 
 [![Maze Runner Video](https://img.youtube.com/vi/uctN47p_KVk/0.jpg)](https://www.youtube.com/watch?v=uctN47p_KVk)
 
-## Sample
+## Sample download
 
-[!meme](https://github.com/Hellmakima/python_maze_runner/blob/main/maze_runner.webp)
+[!click to download](https://github.com/Hellmakima/python_maze_runner/blob/main/maze_maker.webm?raw=true)
 
 Click on the image above to watch a video demonstration of Maze Runner.
 
